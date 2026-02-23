@@ -1,5 +1,12 @@
 # neuro-flow-engine-79
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-flow-engine-79/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-flow-engine-79/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-flow-engine-79)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-flow-engine-79)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-flow-engine-79)
+
 ## Detailed Description
 
 neuro-flow-engine-79 is maintained as an industry-grade software project with production-ready engineering practices.  
